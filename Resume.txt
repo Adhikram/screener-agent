@@ -1,0 +1,49 @@
+Adhikram Maitra �
++91 9836965075 | adhikrammaitra@gmail.com | � | �
+Experience
+MEDIA.NET (Directi) Remote, India
+Data Application Developer 2 · Stack:- Scala, Java, SQL, Spark, Kafka, PySpark, Hdfs October 2021 - Present
+◦ DANTE (Data Anomaly Tracker) Stack:- Scala, Spark, Hive
+Scale:- Comparing between nearly 3 Billion and 200 Million Rows in 30 minutes
+∗ Conceptualized our first configurable data quality tools which fortified data integrity for pipelines.
+∗ Optimized parallel data reading, leading to a 60-pct reduction in data (>100GB) processing time, enabling
+developers to perform real-time data validation and trend analysis for voluminous datasets.
+∗ EQ Tracer: A tool to monitor summative metric trends across configurable hierarchies with dynamic alerting
+mechanisms to filter out noise data, ensuring accurate insights.
+∗ Ratio Tracer: A tool for outlier detection using customizable percentile thresholds, enabling the proactive
+identification and mitigation of anomalies.
+∗ PM Tracer: A logging and monitoring tool that aggregates data from multiple sources, providing detailed
+coverage and mismatch analysis for enhanced data quality and system reliability.
+◦ Spark Submit Orchestrator Stack:- Bash, SQL
+∗ Developed an orchestrator for Spark submissions and PySpark scripts, dynamically fetching configuration from
+MySQL. This centralizes and tracks job configurations, while providing data for performance monitoring.
+◦ StopLoss System Stack:- Java, Structured Streaming, Batch Processing
+Scale:- Fetching 50k records per second from Kafka and processing it in 5 minute bucket
+∗ Shifted Spark Streaming to Structured Streaming, leading to a 50-pct reduction in latency and improved error
+handling, which also added exactly-once assurance that terminated the data audit pipeline.
+∗ Implemented A/B testing to gain insights into traffic patterns and loss thresholds for individual entities. This
+initiative led to a remarkable reduction (15-pct) in overall losses, significantly contributing to the company’s
+research and development efforts and generating tangible improvements in profitability.
+DEVSNEST Remote, India
+Backend Engineer · Stack:- Ruby on Rails, Python, Redis, Amazon SQS October 2020 - October 2021
+◦ Discord Automation and Notification System Stack:- Ruby on Rails, Python, Amazon SQS
+Scale:- Sending 2k messages per day. Reaching 10k Users in 3 months
+∗ Pioneered automation for group moderation on Discord through website, unlocking the peer-learning aspect of
+the product. Resulted in reduced management costs with increased community engagement.
+∗ Developed an orchestrator for Spark submissions and PySpark scripts, dynamically fetching configurations
+from MySQL. This centralizes and tracks job configurations while providing data for performance monitoring.
+Education
+Cooch Behar Government Engineering College West Bengal, India
+Bachelor of Computer Science and Engineering ; CGPA 8.8/10 Jun 2017 - May 2021
+Projects
+Equal Collective(In Progress) | � | Stack:- AWS, Node.js, Postgres, Azure, Metabase January 2024 - Present
+◦ Developed a lead management platform for the sales team, enabling efficient tracking of large datasets.
+◦ Built a backend system that automates human-like analysis of leads, providing actionable insights to the sales team.
+Fuzzy Tutor (In Progress) | � | Stack:- AWS ,Ruby on Rails, React.js, MySql January 2023 - Present
+◦ Created an Online Exam system for Teachers to conduct Competitive Exams.
+◦ Build the Backend from scratch on AWS, supported by a postgres database hosted on Vercel.
+Technical Skills
+Languages | Scala, Java, Python, SQL (MySQL), Ruby, C++
+Tools | Jenkins, Git, Oozie, EC2, Ngnix, Redis, AWS
+Fundamentals | Design Patterns, Object-Oriented Programming, Distributed Systems, ETL, Data Modeling
+Data Stack | Spark, Structured Streaming, Kafka, EMR, HDFS, Hive, PySpark

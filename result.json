@@ -1,0 +1,289 @@
+{
+  "resume": "Adhikram Maitra \ufffd\n+91 9836965075 | adhikrammaitra@gmail.com | \ufffd | \ufffd\nExperience\nMEDIA.NET (Directi) Remote, India\nData Application Developer 2 \u00b7 Stack:- Scala, Java, SQL, Spark, Kafka, PySpark, Hdfs October 2021 - Present\n\u25e6 DANTE (Data Anomaly Tracker) Stack:- Scala, Spark, Hive\nScale:- Comparing between nearly 3 Billion and 200 Million Rows in 30 minutes\n\u2217 Conceptualized our first configurable data quality tools which fortified data integrity for pipelines.\n\u2217 Optimized parallel data reading, leading to a 60-pct reduction in data (>100GB) processing time, enabling\ndevelopers to perform real-time data validation and trend analysis for voluminous datasets.\n\u2217 EQ Tracer: A tool to monitor summative metric trends across configurable hierarchies with dynamic alerting\nmechanisms to filter out noise data, ensuring accurate insights.\n\u2217 Ratio Tracer: A tool for outlier detection using customizable percentile thresholds, enabling the proactive\nidentification and mitigation of anomalies.\n\u2217 PM Tracer: A logging and monitoring tool that aggregates data from multiple sources, providing detailed\ncoverage and mismatch analysis for enhanced data quality and system reliability.\n\u25e6 Spark Submit Orchestrator Stack:- Bash, SQL\n\u2217 Developed an orchestrator for Spark submissions and PySpark scripts, dynamically fetching configuration from\nMySQL. This centralizes and tracks job configurations, while providing data for performance monitoring.\n\u25e6 StopLoss System Stack:- Java, Structured Streaming, Batch Processing\nScale:- Fetching 50k records per second from Kafka and processing it in 5 minute bucket\n\u2217 Shifted Spark Streaming to Structured Streaming, leading to a 50-pct reduction in latency and improved error\nhandling, which also added exactly-once assurance that terminated the data audit pipeline.\n\u2217 Implemented A/B testing to gain insights into traffic patterns and loss thresholds for individual entities. This\ninitiative led to a remarkable reduction (15-pct) in overall losses, significantly contributing to the company\u2019s\nresearch and development efforts and generating tangible improvements in profitability.\nDEVSNEST Remote, India\nBackend Engineer \u00b7 Stack:- Ruby on Rails, Python, Redis, Amazon SQS October 2020 - October 2021\n\u25e6 Discord Automation and Notification System Stack:- Ruby on Rails, Python, Amazon SQS\nScale:- Sending 2k messages per day. Reaching 10k Users in 3 months\n\u2217 Pioneered automation for group moderation on Discord through website, unlocking the peer-learning aspect of\nthe product. Resulted in reduced management costs with increased community engagement.\n\u2217 Developed an orchestrator for Spark submissions and PySpark scripts, dynamically fetching configurations\nfrom MySQL. This centralizes and tracks job configurations while providing data for performance monitoring.\nEducation\nCooch Behar Government Engineering College West Bengal, India\nBachelor of Computer Science and Engineering ; CGPA 8.8/10 Jun 2017 - May 2021\nProjects\nEqual Collective(In Progress) | \ufffd | Stack:- AWS, Node.js, Postgres, Azure, Metabase January 2024 - Present\n\u25e6 Developed a lead management platform for the sales team, enabling efficient tracking of large datasets.\n\u25e6 Built a backend system that automates human-like analysis of leads, providing actionable insights to the sales team.\nFuzzy Tutor (In Progress) | \ufffd | Stack:- AWS ,Ruby on Rails, React.js, MySql January 2023 - Present\n\u25e6 Created an Online Exam system for Teachers to conduct Competitive Exams.\n\u25e6 Build the Backend from scratch on AWS, supported by a postgres database hosted on Vercel.\nTechnical Skills\nLanguages | Scala, Java, Python, SQL (MySQL), Ruby, C++\nTools | Jenkins, Git, Oozie, EC2, Ngnix, Redis, AWS\nFundamentals | Design Patterns, Object-Oriented Programming, Distributed Systems, ETL, Data Modeling\nData Stack | Spark, Structured Streaming, Kafka, EMR, HDFS, Hive, PySpark",
+  "job_description": "About the job\nAbout Agoda\n\nAgoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with a global network of 4.7M hotels and holiday properties worldwide, plus flights, activities, and more . Based in Asia and part of Booking Holdings, our 7,100+ employees representing 95+ nationalities in 27 markets foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership,\u202fenhancing the ability for our customers to experience the world.\n\n Our Purpose \u2013  Bridging the World Through Travel \n\nWe believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.\n\nWe are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.\n\nGet to Know Our Team\n\nThe Data department oversees all of Agoda\u2019s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company\u2019s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.\n\nThe Opportunity\n\nAs senior data pipeline engineer, you will work on distributed systems spanning multiple data centers, thousands of servers and hundreds of billions of messages a day. Ensuring data quality, data integrity and data accuracy is a core part of our identity. Design for new scalable system which data is increasing day by day, including auditing and monitoring systems. You will have a chance to manage projects with small team of 1-2 members which improving your ownership and leadership. You will be eager to solve problems that come from managing and making sense of large amounts of data. Some of the things you\u2019ll get to work on include schema registry, real-time data-ingestion, cross data center replication, enrichment, storage and analytics of the data flow.\n\nWe are a small passionate team and we are looking for exceptional individuals to be a part of designing, building, deploying (and probably debugging) our Data Pipeline.\n\nIn This Role, You\u2019ll Get to\n\nYou will build, administer and scale data pipelines that process hundreds of billions of messages a day spanning over multiple data centers\nYou will develop and expand upon existing frameworks that is used by Teams throughout Agoda to produce messages to the data pipeline\nYou will build and manage data ingestion into multiple systems (Hadoop, ElasticSearch, other Distributed Systems)\nYou will build tools that monitor high data accuracy SLAs for the data pipeline\nYou will explore available new technologies that improve upon our quality of data, processes and data flow\nYou will develop quality software through design review, code reviews and test driven development\n\nWhat You\u2019ll Need To Succeed\n\nBachelor\u2019s degree in Computer Science / Information Systems / Computer Engineering or related field\n4 plus years of industry experience, preferred at a tech company\nGood knowledge of data architecture principles\nHave operational experience debugging production issues\nAn experienced coder, who can stand your ground with experience building systems with purpose that are flexible, well-tested, maintainable and scale\nYou\u2019re detail oriented considering every outcome of a particular decision\nYou can communicate in technical English with fluidity, both verbal and written\nKnow more than one programming language (Golang, Java, Scala, Python, C#, etc.)\nGood understanding of how Kafka works\nKafka Administrator Experience\nExperience with data ingestion from Kafka into Hadoop, ElasticSearch, other Distributed Systems\nStrong systems administration skills in Linux\nWorked on or contributed to Open Source Project \n\n#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #newdelhi #Pune #Hyderabad #Bangalore #Mumbai #Bengaluru #Chennai #Kolkata #Lucknow #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5\n\nEqual Opportunity Employer \n\nAt Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person\u2019s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.\n\nWe will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .\n\nTo all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.\n",
+  "experiences": [
+    {
+      "company": "MEDIA.NET (Directi)",
+      "title": "Data Application Developer 2",
+      "start_date": "October 2021",
+      "end_date": "Present",
+      "description": "Conceptualized and developed various data quality tools and systems, optimized data processing, and implemented advanced data streaming and monitoring solutions.",
+      "skills_used": [
+        "Scala",
+        "Java",
+        "SQL",
+        "Spark",
+        "Kafka",
+        "PySpark",
+        "Hdfs",
+        "Hive",
+        "Bash"
+      ]
+    },
+    {
+      "company": "DEVSNEST",
+      "title": "Backend Engineer",
+      "start_date": "October 2020",
+      "end_date": "October 2021",
+      "description": "Pioneered automation for group moderation on Discord, developed an orchestrator for Spark submissions and PySpark scripts, enhancing community engagement and performance monitoring.",
+      "skills_used": [
+        "Ruby on Rails",
+        "Python",
+        "Redis",
+        "Amazon SQS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Cooch Behar Government Engineering College",
+      "degree": "Bachelor of Computer Science and Engineering",
+      "field_of_study": "Computer Science and Engineering",
+      "graduation_date": "May 2021",
+      "achievements": [
+        "Graduated with a CGPA of 8.8/10"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scala",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.9
+    },
+    {
+      "name": "Java",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.9
+    },
+    {
+      "name": "SQL",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.8
+    },
+    {
+      "name": "Spark",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 1.0
+    },
+    {
+      "name": "Kafka",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 1.0
+    },
+    {
+      "name": "PySpark",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.9
+    },
+    {
+      "name": "HDFS",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.8
+    },
+    {
+      "name": "Hive",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.7
+    },
+    {
+      "name": "Bash",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Ruby on Rails",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Python",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.7
+    },
+    {
+      "name": "Redis",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Amazon SQS",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "AWS",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Node.js",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Postgres",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Azure",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Metabase",
+      "category": "technical",
+      "level": "beginner",
+      "relevance": 0.4
+    },
+    {
+      "name": "Ruby",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "C++",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.4
+    },
+    {
+      "name": "Jenkins",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Git",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.7
+    },
+    {
+      "name": "Oozie",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "EC2",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Nginx",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Design Patterns",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.7
+    },
+    {
+      "name": "Object-Oriented Programming",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.7
+    },
+    {
+      "name": "Distributed Systems",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 1.0
+    },
+    {
+      "name": "ETL",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.8
+    },
+    {
+      "name": "Data Modeling",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.8
+    },
+    {
+      "name": "Structured Streaming",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.9
+    },
+    {
+      "name": "EMR",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.7
+    }
+  ],
+  "match_analysis": {
+    "experience_match": 0.85,
+    "education_match": 0.9,
+    "skills_match": 0.95,
+    "strengths": [
+      "Strong experience with Kafka, which is crucial for the role",
+      "Advanced skills in Scala, Java, and Spark align well with the technical demands of the position",
+      "Proven ability to develop and manage large-scale data pipelines",
+      "Experience in data quality tools and systems development",
+      "Good foundation in distributed systems and data architecture principles"
+    ],
+    "gaps": [
+      "Lacks direct experience managing small teams, as the role might require",
+      "No explicit experience mentioned with cross data center replication",
+      "Limited exposure to some newer or specific technologies like ElasticSearch and real-time data ingestion systems mentioned in the job description"
+    ]
+  },
+  "review_result": {
+    "overall_score": 0.9,
+    "match_details": {
+      "experience_match": 0.85,
+      "education_match": 0.9,
+      "skills_match": 0.95,
+      "strengths": [
+        "Strong experience with Kafka, which is crucial for the role",
+        "Advanced skills in Scala, Java, and Spark align well with the technical demands of the position",
+        "Proven ability to develop and manage large-scale data pipelines",
+        "Experience in data quality tools and systems development",
+        "Good foundation in distributed systems and data architecture principles"
+      ],
+      "gaps": [
+        "Lacks direct experience managing small teams, as the role might require",
+        "No explicit experience mentioned with cross data center replication",
+        "Limited exposure to some newer or specific technologies like ElasticSearch and real-time data ingestion systems mentioned in the job description"
+      ]
+    },
+    "recommendations": [
+      "Gain experience in managing small teams to strengthen leadership skills, possibly through internal projects or leadership training programs.",
+      "Seek opportunities to work on projects involving cross data center replication to fill this specific gap.",
+      "Engage in professional development or hands-on projects that involve ElasticSearch and real-time data ingestion systems to become more proficient in these technologies."
+    ],
+    "key_talking_points": [
+      "Discuss your extensive experience with Kafka and how it can be leveraged to improve Agoda's data pipeline systems.",
+      "Highlight your ability to develop and manage large-scale data pipelines and how this aligns with Agoda's goals for handling vast amounts of data.",
+      "Express your willingness to learn and adapt to new technologies, specifically mentioning your interest in gaining more experience with ElasticSearch and real-time data systems."
+    ]
+  }
+}
