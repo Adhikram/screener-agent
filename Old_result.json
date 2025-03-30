@@ -110,7 +110,7 @@
       "name": "Python",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.8
+      "relevance": 0.7
     },
     {
       "name": "Redis",
@@ -128,13 +128,13 @@
       "name": "AWS",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.7
+      "relevance": 0.6
     },
     {
       "name": "Node.js",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.6
+      "relevance": 0.5
     },
     {
       "name": "Postgres",
@@ -146,7 +146,7 @@
       "name": "Azure",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.6
+      "relevance": 0.5
     },
     {
       "name": "Metabase",
@@ -164,7 +164,7 @@
       "name": "C++",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.5
+      "relevance": 0.4
     },
     {
       "name": "Jenkins",
@@ -199,7 +199,7 @@
     {
       "name": "Design Patterns",
       "category": "technical",
-      "level": "intermediate",
+      "level": "advanced",
       "relevance": 0.7
     },
     {
@@ -218,12 +218,12 @@
       "name": "ETL",
       "category": "technical",
       "level": "advanced",
-      "relevance": 0.9
+      "relevance": 0.8
     },
     {
       "name": "Data Modeling",
       "category": "technical",
-      "level": "intermediate",
+      "level": "advanced",
       "relevance": 0.8
     },
     {
@@ -245,14 +245,45 @@
     "skills_match": 0.95,
     "strengths": [
       "Strong experience with Kafka, which is crucial for the role",
-      "Advanced skills in Scala, Java, and Spark, aligning well with the job's technical requirements",
-      "Proven track record of developing and managing large-scale data pipelines",
-      "Experience in data quality tools and systems, which is a core part of the job description",
-      "Operational experience debugging production issues, ensuring data integrity and accuracy"
+      "Advanced skills in Scala, Java, and Spark align well with the technical demands of the position",
+      "Proven ability to develop and manage large-scale data pipelines",
+      "Experience in data quality tools and systems development",
+      "Good foundation in distributed systems and data architecture principles"
     ],
     "gaps": [
-      "Lack of direct experience managing small teams, as the role includes project management responsibilities",
-      "Limited exposure to some of the newer or less common technologies listed in the job description, such as ElasticSearch and other distributed systems beyond Hadoop"
+      "Lacks direct experience managing small teams, as the role might require",
+      "No explicit experience mentioned with cross data center replication",
+      "Limited exposure to some newer or specific technologies like ElasticSearch and real-time data ingestion systems mentioned in the job description"
+    ]
+  },
+  "review_result": {
+    "overall_score": 0.9,
+    "match_details": {
+      "experience_match": 0.85,
+      "education_match": 0.9,
+      "skills_match": 0.95,
+      "strengths": [
+        "Strong experience with Kafka, which is crucial for the role",
+        "Advanced skills in Scala, Java, and Spark align well with the technical demands of the position",
+        "Proven ability to develop and manage large-scale data pipelines",
+        "Experience in data quality tools and systems development",
+        "Good foundation in distributed systems and data architecture principles"
+      ],
+      "gaps": [
+        "Lacks direct experience managing small teams, as the role might require",
+        "No explicit experience mentioned with cross data center replication",
+        "Limited exposure to some newer or specific technologies like ElasticSearch and real-time data ingestion systems mentioned in the job description"
+      ]
+    },
+    "recommendations": [
+      "Gain experience in managing small teams to strengthen leadership skills, possibly through internal projects or leadership training programs.",
+      "Seek opportunities to work on projects involving cross data center replication to fill this specific gap.",
+      "Engage in professional development or hands-on projects that involve ElasticSearch and real-time data ingestion systems to become more proficient in these technologies."
+    ],
+    "key_talking_points": [
+      "Discuss your extensive experience with Kafka and how it can be leveraged to improve Agoda's data pipeline systems.",
+      "Highlight your ability to develop and manage large-scale data pipelines and how this aligns with Agoda's goals for handling vast amounts of data.",
+      "Express your willingness to learn and adapt to new technologies, specifically mentioning your interest in gaining more experience with ElasticSearch and real-time data systems."
     ]
   }
 }
