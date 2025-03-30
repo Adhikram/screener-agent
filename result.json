@@ -7,7 +7,7 @@
       "title": "Data Application Developer 2",
       "start_date": "October 2021",
       "end_date": "Present",
-      "description": "Conceptualized and developed various data quality tools and systems, optimized data processing, and implemented advanced data streaming and monitoring solutions.",
+      "description": "Worked on various data quality tools and systems, including DANTE for data anomaly tracking, EQ Tracer for monitoring metric trends, and Ratio Tracer for outlier detection. Developed a Spark Submit Orchestrator for job configuration tracking and a StopLoss System that improved latency and error handling.",
       "skills_used": [
         "Scala",
         "Java",
@@ -15,9 +15,7 @@
         "Spark",
         "Kafka",
         "PySpark",
-        "Hdfs",
-        "Hive",
-        "Bash"
+        "HDFS"
       ]
     },
     {
@@ -25,7 +23,7 @@
       "title": "Backend Engineer",
       "start_date": "October 2020",
       "end_date": "October 2021",
-      "description": "Pioneered automation for group moderation on Discord, developed an orchestrator for Spark submissions and PySpark scripts, enhancing community engagement and performance monitoring.",
+      "description": "Pioneered automation for group moderation on Discord, developed a notification system, and created an orchestrator for Spark submissions. Enhanced community engagement and reduced management costs.",
       "skills_used": [
         "Ruby on Rails",
         "Python",
@@ -41,7 +39,7 @@
       "field_of_study": "Computer Science and Engineering",
       "graduation_date": "May 2021",
       "achievements": [
-        "Graduated with a CGPA of 8.8/10"
+        "CGPA 8.8/10"
       ]
     }
   ],
@@ -56,73 +54,43 @@
       "name": "Java",
       "category": "technical",
       "level": "advanced",
-      "relevance": 0.9
+      "relevance": 0.8
     },
     {
-      "name": "SQL",
+      "name": "Python",
       "category": "technical",
       "level": "advanced",
       "relevance": 0.8
+    },
+    {
+      "name": "SQL (MySQL)",
+      "category": "technical",
+      "level": "advanced",
+      "relevance": 0.9
     },
     {
       "name": "Spark",
       "category": "technical",
       "level": "advanced",
-      "relevance": 1.0
+      "relevance": 0.9
     },
     {
       "name": "Kafka",
       "category": "technical",
       "level": "advanced",
-      "relevance": 1.0
-    },
-    {
-      "name": "PySpark",
-      "category": "technical",
-      "level": "advanced",
       "relevance": 0.9
     },
     {
-      "name": "HDFS",
-      "category": "technical",
-      "level": "advanced",
-      "relevance": 0.8
-    },
-    {
-      "name": "Hive",
+      "name": "Hadoop",
       "category": "technical",
       "level": "intermediate",
       "relevance": 0.7
     },
     {
-      "name": "Bash",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Ruby on Rails",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
-    },
-    {
-      "name": "Python",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.8
-    },
-    {
       "name": "Redis",
       "category": "technical",
       "level": "intermediate",
-      "relevance": 0.5
-    },
-    {
-      "name": "Amazon SQS",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
+      "relevance": 0.6
     },
     {
       "name": "AWS",
@@ -131,74 +99,20 @@
       "relevance": 0.7
     },
     {
-      "name": "Node.js",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Postgres",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Azure",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Metabase",
-      "category": "technical",
-      "level": "beginner",
-      "relevance": 0.4
-    },
-    {
-      "name": "Ruby",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
-    },
-    {
-      "name": "C++",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
-    },
-    {
-      "name": "Jenkins",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Git",
-      "category": "technical",
+      "name": "Data Modeling",
+      "category": "domain",
       "level": "advanced",
-      "relevance": 0.7
+      "relevance": 0.8
     },
     {
-      "name": "Oozie",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
+      "name": "Distributed Systems",
+      "category": "domain",
+      "level": "advanced",
+      "relevance": 0.9
     },
     {
-      "name": "EC2",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.6
-    },
-    {
-      "name": "Nginx",
-      "category": "technical",
-      "level": "intermediate",
-      "relevance": 0.5
-    },
-    {
-      "name": "Design Patterns",
-      "category": "technical",
+      "name": "ETL",
+      "category": "domain",
       "level": "intermediate",
       "relevance": 0.7
     },
@@ -206,53 +120,72 @@
       "name": "Object-Oriented Programming",
       "category": "technical",
       "level": "advanced",
-      "relevance": 0.7
-    },
-    {
-      "name": "Distributed Systems",
-      "category": "technical",
-      "level": "advanced",
-      "relevance": 1.0
-    },
-    {
-      "name": "ETL",
-      "category": "technical",
-      "level": "advanced",
-      "relevance": 0.9
-    },
-    {
-      "name": "Data Modeling",
-      "category": "technical",
-      "level": "intermediate",
       "relevance": 0.8
     },
     {
-      "name": "Structured Streaming",
+      "name": "Design Patterns",
       "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Bash",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Git",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.6
+    },
+    {
+      "name": "Jenkins",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.5
+    },
+    {
+      "name": "Linux",
+      "category": "technical",
+      "level": "intermediate",
+      "relevance": 0.7
+    },
+    {
+      "name": "Communication",
+      "category": "soft",
+      "level": "advanced",
+      "relevance": 0.8
+    },
+    {
+      "name": "Problem Solving",
+      "category": "soft",
       "level": "advanced",
       "relevance": 0.9
     },
     {
-      "name": "EMR",
-      "category": "technical",
+      "name": "Team Management",
+      "category": "soft",
       "level": "intermediate",
       "relevance": 0.7
     }
   ],
   "match_analysis": {
-    "experience_match": 0.85,
-    "education_match": 0.9,
-    "skills_match": 0.95,
+    "experience_match": 0.8,
+    "education_match": 1.0,
+    "skills_match": 0.9,
     "strengths": [
-      "Strong experience with Kafka, which is crucial for the role",
-      "Advanced skills in Scala, Java, and Spark, aligning well with the job's technical requirements",
-      "Proven track record of developing and managing large-scale data pipelines",
-      "Experience in data quality tools and systems, which is a core part of the job description",
-      "Operational experience debugging production issues, ensuring data integrity and accuracy"
+      "Strong experience with data pipeline technologies including Kafka and Spark",
+      "Proficient in multiple programming languages (Scala, Java, Python)",
+      "Experience in developing data quality tools and monitoring systems",
+      "Good understanding of distributed systems and data architecture principles",
+      "Strong problem-solving skills and attention to detail"
     ],
     "gaps": [
-      "Lack of direct experience managing small teams, as the role includes project management responsibilities",
-      "Limited exposure to some of the newer or less common technologies listed in the job description, such as ElasticSearch and other distributed systems beyond Hadoop"
+      "No explicit experience mentioned with cross data center replication",
+      "Limited experience in managing small teams or projects as a lead",
+      "No mention of experience with Open Source projects"
     ]
   }
 }
