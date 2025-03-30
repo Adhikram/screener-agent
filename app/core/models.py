@@ -10,9 +10,11 @@ load_dotenv()
 def get_openai_model(model_name="gpt-4-turbo", temperature=0):
     """Get OpenAI model instance"""
     api_key = os.getenv("OPENAI_API_KEY")
+    model_name = os.getenv("OPENAI_MODEL")
     if not api_key:
         raise ValueError("OPENAI_API_KEY not found in environment variables")
-        
+    if not model_name:
+        raise ValueError("OPENAI_MODEL not found in environment variables")
     return ChatOpenAI(
         model=model_name,
         temperature=temperature,
