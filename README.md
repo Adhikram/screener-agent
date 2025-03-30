@@ -54,7 +54,24 @@ An AI-powered resume reviewer that analyzes resumes against job descriptions to 
 
 5. Edit the `.env` file with your API keys
 
-### Running the API
+### Running the Application
+
+There are two ways to use the application:
+
+#### 1. Using the Command-Line Interface
+
+1. Create two text files in the project root:
+   - `resume.txt`: Containing the resume content
+   - `jd.txt`: Containing the job description content
+
+2. Run the main script:
+   ```
+   python main.py
+   ```
+
+3. Check the output in the console and in the generated `result.json` file
+
+#### 2. Using the API Server
 
 Start the API server:
 ```
@@ -82,14 +99,14 @@ Request body:
 Response:
 ```json
 {
-  "overall_score": 0.85,
-  "experience_match": 0.9,
-  "education_match": 0.8,
-  "skills_match": 0.85,
-  "strengths": ["Relevant industry experience", "Matching technical skills"],
-  "gaps": ["Leadership experience"],
-  "recommendations": ["Highlight project management experience", "Add quantitative achievements"],
-  "key_talking_points": ["Cloud architecture expertise", "Experience with similar products"]
+  "experiences": [...],
+  "education": [...],
+  "skills": [...],
+  "match_analysis": {
+    "match_points": [...],
+    "gaps": [...],
+    "suggestions": [...]
+  }
 }
 ```
 
@@ -105,9 +122,11 @@ resume-reviewer/
 │   ├── core/             # Core workflow and model configurations
 │   └── utils/            # Utility functions
 ├── .env.example          # Example environment variables
-├── main.py               # Main entry point
+├── main.py               # Main entry point for CLI usage
 ├── requirements.txt      # Project dependencies
-└── run_api.py            # Script to run the API server
+├── run_api.py            # Script to run the API server
+├── resume.txt            # Sample resume (for CLI usage)
+└── jd.txt                # Sample job description (for CLI usage)
 ```
 
 ## License
